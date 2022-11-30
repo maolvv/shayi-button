@@ -3,7 +3,7 @@
 ![https://live.bilibili.com/26168663](http://i1.hdslb.com/bfs/archive/4633093bf4f942d1bc3ce80302eacac011b7898d.jpg@400h.webp)
 
 ### LICENSE
-- 此项目使用了**blacktunes**(https://github.com/blacktunes) 编写的**hiiro-button**(https://github.com/blacktunes/hiiro-button)为模板
+- 此项目使用了**blacktunes**(https://github.com/blacktunes) 编写的**hiiro-button**(https://github.com/blacktunes/hiiro-button) 为模板
 
 ### 项目链接
 

@@ -10,5 +10,15 @@
     "translate": {
       "zh-CN": "你再骂！（恳求）"
     }
-  }
+  },
+   {
+    "name": "名言",
+    "translate": {
+      "zh-CN": "名言"
+    },
+     {
+    "name": "日常",
+    "translate": {
+      "zh-CN": "日常"
+    }
 ]

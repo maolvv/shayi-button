@@ -1,8 +1,15 @@
 [
   {
-    "name": "名言"
+    "name": "名言",
+    "translate": {
+      "zh-CN": "猫猫名言~",
+      "en-US": "Witticisms~"
+    }
   },
   {
-    "name": "mua"
+    "name": "mua",
+    "translate": {
+      "zh-CN": "mua",
+    }
   }
 ]

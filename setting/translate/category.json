@@ -1,5 +1,8 @@
 [
   {
-    "name": "mua"
+    "name": "mua",
+    "translate": {
+      "zh-CN": "mua"
+    }
   }
 ]

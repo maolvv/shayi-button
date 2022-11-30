@@ -23,6 +23,7 @@
   - 不熟悉**github**的用法也可以到[Bilibili](https://space.bilibili.com/160080754)或[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=Q20bRU3bej3KGC3d5jZKc1M2eIvxVauR)和我联系
 
 - 如果您可以进行开发，那么请**Fork**本项目进行修改，完成修改后在本项目中发起一个**Pull Request**
+   > **Pull Request**请提交至**dev**分支
 
 ### 添加或修改音频
 

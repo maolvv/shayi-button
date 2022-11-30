@@ -39,10 +39,10 @@
 ```jsonc
 [
   {
-    "name": "名言"
-  },
-  {
-    "name": "mua"
+    "name": "mua",
+    "translate": {
+      "zh-CN": "mua"
+    }
   }
 ]
 ```
@@ -55,12 +55,9 @@
     "name": "mua",
     "path": "mua.mp3",
     "date": "2022-11-20",
-    "category": "名言",
-    "mark": {
-      "title": "2022-11-20【纱依】出道纪念直播后日谈",
-      "time": "23:28~23:29",
-      "url": "https://www.bilibili.com/video/BV1Ad4y1b7un"
+    "translate": {
+      "zh-CN": "mua"
     }
-  }
 ]
+
 ```

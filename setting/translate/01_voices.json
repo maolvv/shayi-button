@@ -12,5 +12,61 @@
       "time": "23:28~23:29",
       "url": "https://www.bilibili.com/video/BV1Ad4y1b7un"
     }
+  },
+  {
+    "name": "晚上好 晚上好",
+    "path": "晚上好 晚上好.mp3",
+    "date": "2022-11-23",
+    "translate": {
+      "zh-CN": "晚上好 晚上好"
+    },
+    "category": "日常",
+    "mark": {
+      "title": "2022-11-23【纱依】简单地开会儿嗓+和薇Steria 一起玩the past within",
+      "time": "18:26~18:29",
+      "url": "https://www.bilibili.com/video/BV1LG4y1571u"
+    }
+  },
+  {
+    "name": "臭傻呗",
+    "path": "臭傻呗.mp3",
+    "date": "2022-11-23",
+    "translate": {
+      "zh-CN": "臭傻呗"
+    },
+    "category": "你再骂",
+    "mark": {
+      "title": "2022-11-23【纱依】简单地开会儿嗓+和薇Steria 一起玩the past within",
+      "time": "19:49~19:50",
+      "url": "https://www.bilibili.com/video/BV1LG4y1571u"
+    }
+  },
+  {
+    "name": "脏狗",
+    "path": "脏狗.mp3",
+    "date": "2022-11-23",
+    "translate": {
+      "zh-CN": "脏狗"
+    },
+    "category": "你再骂",
+    "mark": {
+      "title": "2022-11-23【纱依】简单地开会儿嗓+和薇Steria 一起玩the past within",
+      "time": "19:50~19:51",
+      "url": "https://www.bilibili.com/video/BV1LG4y1571u"
+    }
+  },
+  {
+    "name": "滚出去",
+    "path": "滚出去.mp3",
+    "date": "2022-11-23",
+    "translate": {
+      "zh-CN": "滚出去"
+    },
+    "category": "你再骂",
+    "mark": {
+      "title": "2022-11-23【纱依】简单地开会儿嗓+和薇Steria 一起玩the past within",
+      "time": "19:50~19:52",
+      "url": "https://www.bilibili.com/video/BV1LG4y1571u"
+    }
   }
 ]
